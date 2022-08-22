@@ -99,6 +99,7 @@ function setFocus(e) {
   }
 }
 
+//Eventlisterners
 name.addEventListener("keypress", setName);
 name.addEventListener("blur", setName);
 focus.addEventListener("keypress", setFocus);
