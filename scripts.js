@@ -104,6 +104,7 @@ name.addEventListener("blur", setName);
 focus.addEventListener("keypress", setFocus);
 focus.addEventListener("blur", setFocus);
 
+//Run
 showTime();
 setBgGreet();
 getName();
